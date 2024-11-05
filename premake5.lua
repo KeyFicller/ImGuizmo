@@ -11,7 +11,8 @@ project "imguizmo"
     files
     {
         "ImGuizmo.h",
-        "ImGuizmo.cpp"
+        "ImGuizmo.cpp",
+        "premake5.lua"
     }
 
     includedirs
